@@ -7,11 +7,15 @@ SSH 实现：[SSH Login](https://github.com/superchijinpeng/ssh_login)
 
 SSM 实现：[SSM Login](https://github.com/superchijinpeng/ssm_login)
 
+Spring MVC 实现：[Spring MVC Login](https://github.com/superchijinpeng/spring_mvc_login)
+
 Kotlin + Web 实现：[Kotlin Web Login](https://github.com/superchijinpeng/kotlin_web_login)
 
 Kotlin + SSH 实现：[SSH Kotlin Login](https://github.com/superchijinpeng/ssh_kotlin_login)
 
 Kotlin + Struts 2 实现：[Struts 2 Kotlin Login](https://github.com/superchijinpeng/struts2_kotlin_login)
+
+Kotlin + Spring MVC 实现：[Spring MVC Kotlin Login](https://github.com/superchijinpeng/spring_mvc_kotlin_login)
 ### 版本
 Kotlin 1.1.4-3
 
